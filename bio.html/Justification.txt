@@ -1,0 +1,1 @@
+I have done 7 css files for each subject,bio and matrix. There is 1 js file for matrix.i have done separately beacause it is easily accesible for each file as it named accordingly to it.
