@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image:url("https://th.bing.com/th/id/OIP.wxiaLh1K6MaFKpeagGyxeAHaE7?w=274&h=183&c=7&r=0&o=5&dpr=1.4&pid=1.7");
     background-size: cover;
@@ -32,4 +33,40 @@ p{
 }
 img{
     border-style: groove;
+=======
+body{
+    background-image:url("https://th.bing.com/th/id/OIP.wxiaLh1K6MaFKpeagGyxeAHaE7?w=274&h=183&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-size: cover;
+    scale: 80%;
+}
+
+header{
+    text-align: center;
+    font-size: 40px;
+    color:darkmagenta;
+}
+h2{
+    color:fuchsia;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    color:brown;
+    font-size:30px;
+}
+h3{
+    color: black;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color:deeppink;
+    text-align: justify;
+    font-size: 30px;
+    font-family:  'Times New Roman', Times, serif;
+}
+img{
+    border-style: groove;
+>>>>>>> 8f170ef667f00a1b0b45e411051a59871386de2e
 }

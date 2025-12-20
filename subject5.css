@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image:url("https://th.bing.com/th/id/OIP.M8FPT9xtXWYlPdii85Z89QHaFj?w=211&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7");
     background-size: cover;
@@ -36,4 +37,44 @@ img{
     height:400px;
     position:absolute;
     right:0;
+=======
+body{
+    background-image:url("https://th.bing.com/th/id/OIP.M8FPT9xtXWYlPdii85Z89QHaFj?w=211&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7");
+    background-size: cover;
+    scale: 80%;
+}
+
+header{
+    text-align: center;
+    font-size: 40px;
+    color:whitesmoke;
+}
+h2{
+    color:aqua;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    color: fuchsia;
+    font-size:30px;
+}
+h3{
+    color: lightseagreen;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color:lightyellow;
+    text-align: justify;
+    font-size: 30px;
+    font-family:  'Times New Roman', Times, serif;
+}
+img{
+    border-style: groove;
+    width:400px;
+    height:400px;
+    position:absolute;
+    right:0;
+>>>>>>> 8f170ef667f00a1b0b45e411051a59871386de2e
 }

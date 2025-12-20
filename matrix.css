@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image: url=('https://th.bing.com/th/id/OIP.0YZIjzgSJq1880VHChsboQHaE7?w=234&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7');
     color:chocolate;
@@ -22,3 +23,29 @@ button{
 body{
     text-align: center;
 }
+=======
+body{
+    background-image: url=('https://th.bing.com/th/id/OIP.0YZIjzgSJq1880VHChsboQHaE7?w=234&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7');
+    color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    text-align:center;
+   
+}
+h4{
+    color:darkturquoise;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h6{
+    color:currentColor;
+}
+button{
+    color:#ff00ff;
+    background-color: lemonchiffon;
+    size: 25px;
+    
+}
+body{
+    text-align: center;
+}
+>>>>>>> 8f170ef667f00a1b0b45e411051a59871386de2e
