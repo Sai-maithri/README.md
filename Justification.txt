@@ -1,1 +1,23 @@
-I have done 7 css files for each subject,bio and matrix. There is 1 js file for matrix.i have done separately beacause it is easily accesible for each file as it named accordingly to it.
+# Project Justification
+
+## File Structure
+
+| Files | Purpose |
+|-------|---------|
+| `subject1.css` - `subject5.css` | Individual styling for each subject |
+| `bio.css` | Biology project styles |
+| `matrix.css` | Matrix operations styles |
+| `matrix.js` | Matrix calculation logic |
+
+## Rationale
+
+- **Separate CSS files** — Each subject, bio, and matrix has its own stylesheet for modularity
+- **Easy maintenance** — Changes to one file don't affect others
+- **Clear naming** — Files are named to match their corresponding HTML files
+- **Single JS file** — Matrix operations share one script since functionality is related
+
+## Benefits
+
+1. **Scalability** — Easy to add new subjects
+2. **Maintainability** — Isolated styles prevent conflicts
+3. **Readability** — Clear file organization
